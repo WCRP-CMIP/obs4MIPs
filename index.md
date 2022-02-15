@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to obs4MIPs 2022
+
+Obs4MIPs is an effort to make observational data more accessible for model evaluation and research. 
+
 
 You can use the [editor on GitHub](https://github.com/PCMDI/obs4MIPs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
