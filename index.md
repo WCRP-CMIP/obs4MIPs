@@ -1,4 +1,4 @@
-## Welcome to obs4MIPs 2022
+## Welcome to obs4MIPs 2022!
 
 Obs4MIPs is an effort to make observational data more accessible for model evaluation and research. 
 
