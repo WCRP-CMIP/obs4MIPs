@@ -1,6 +1,6 @@
 ## Welcome to obs4MIPs 2022!
 
-Obs4MIPs is an effort to make observational data more accessible for model evaluation and research. 
+Obs4MIPs is an effort to make observational data more accessible for climate model evaluation, development and research. It does so by providing products that are prepared to be closely aligned with the data conventions established for the World Climate Research Programme's (WCRP) Coupled Model Intercomparison Project (CMIP).  
 
 
 You can use the [editor on GitHub](https://github.com/PCMDI/obs4MIPs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
