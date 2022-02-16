@@ -1,2 +1,2 @@
 # obs4MIPs
-Open repository for the WCRP CMIP Observations for MIPs Project (obs4MIPs).
+This site provides ongoing information related to the advancement of obs4MIPs. 
