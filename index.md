@@ -2,9 +2,14 @@
 
 _The information below supercedes a [previous website.](https://esgf-node.llnl.gov/projects/obs4mips/)_ 
 
-Obs4MIPs is an effort to make observational data more accessible for climate model evaluation, development and research. It does so by providing observational data technically aligned with model data made available from the World Climate Research Programme's (WCRP) Coupled Model Intercomparison Project (CMIP). Some obs4MIPs products are made available via the [Earth System Grid Federation (ESGF)](https://esgf-node.llnl.gov/search/obs4mips/). 
+Obs4MIPs is an effort to make observational data more accessible for climate model evaluation, development and research. It does so by providing observational products technically aligned with climate model data, specifically that made available from the World Climate Research Programme's (WCRP) Coupled Model Intercomparison Project (CMIP). Some obs4MIPs products are made available via the [Earth System Grid Federation (ESGF)](https://esgf-node.llnl.gov/search/obs4mips/). A series of papers provide background material for the origins and advancment of obs4MIPs (Gleckler et al., 2011; Teixeira et al., 2014; Ferraro et al., 2015; Waliser et al., 2020).  
 
-A series of papers provide background material for the origins and advancment of obs4MIPs (Gleckler et al., 2011; Teixeira et al., 2014; Ferraro et al., 2015; Waliser et al., 2020).  
+Version controlled obs4MIPs compliant datasets provide the foundation for the effort.  Some of these products are made available via ESGF, and a subset of them have been reviewed (primarily assessing technical compliance with standards). 
+
+Discussions are underway to revamp obs4MIPs with a priority to make products more readily available.  If you would like to be involved in this process please contact us and let us know (obs4MIPs-admin@llnl.gov).  
+
+
+### Contacts
 
 
 
