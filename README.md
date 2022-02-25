@@ -1,5 +1,4 @@
 # obs4MIPs
-Making observational data more accessible for climate model analysis, development an research.....
-
+This Github Repository is used to manage content displayed on the current obs4MIPs website: https://pcmdi.github.io/obs4MIPs/
 
 
