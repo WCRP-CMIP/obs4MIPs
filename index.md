@@ -1,4 +1,4 @@
-## Welcome to obs4MIPs in 2022
+## Welcome to obs4MIPs in 2022!
 
 _The information below supercedes a [previous website.](https://esgf-node.llnl.gov/projects/obs4mips/)_ 
 
@@ -10,7 +10,6 @@ Discussions are underway to revamp obs4MIPs with a priority to make products mor
 
 
 ### Contacts
-
 
 
 ### References
