@@ -36,7 +36,7 @@
 
              <li>
                <a href="{{ site.url }}/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
+               <!-- <span> [ {{"/" | absolute_url }} - {{ item.title }} - {{ item.rank }} ] </span> -->
              </li>
              {%endif %}
            {% endif %}
