@@ -35,8 +35,8 @@
              {% if item.dir == "/" %}
 
              <li>
-               <a href="{{ site.url }}/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-               <!-- <span> [ {{"/" | absolute_url }} - {{ item.title }} - {{ item.rank }} ] </span> -->
+               <a href="{{ "/" | absolute_url }}/{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
              </li>
              {%endif %}
            {% endif %}
