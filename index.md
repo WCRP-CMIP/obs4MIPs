@@ -9,8 +9,8 @@ the World Climate Research Programme's (WCRP) Coupled Model Intercomparison Proj
 (CMIP). Some obs4MIPs products are made available via the
 [Earth System Grid Federation (ESGF)][obs4mipsEsgfSearch].
 A series of papers provide background material for the origins and advancement
-of obs4MIPs ([Gleckler et al., 2011][gleckler11]; [Teixeira et al., 2014][texeira14];
-[Ferraro et al., 2015][ferraro15]; [Waliser et al., 2020][waliser20]).
+of obs4MIPs ([Gleckler et al., 2011][gleckler2011]; [Teixeira et al., 2014][teixeira2014];
+[Ferraro et al., 2015][ferraro2015]; [Waliser et al., 2020][waliser2020]).
 
 Version controlled obs4MIPs compliant datasets provide the foundation for the effort.
 Some of these products are made available via ESGF, and a subset of them have been
@@ -46,12 +46,12 @@ Lee, T., Pinnock, S., Potter, G., Rixen, M., Saunders, R., Schulz, J., Tuma, M.
 Geosc. Mod. Dev. 13. 2945-2958, [doi.org/10.5194/gmd-13-2945-2020][http://doi.org/10.5194/gmd-13-2945-2020]
 
 
-###### Document version: 15 March 2022
+##### Document version: 15 March 2022
 
 
 [obs4mipsEsgfProj]: https://esgf-node.llnl.gov/projects/obs4mips/
 [obs4mipsEsgfSearch]: https://esgf-node.llnl.gov/search/obs4mips/
 [ferraro2015]: http://doi.org/10.1175/BAMS-D-14-00216.1
 [gleckler2011]: https://doi.org/10.1029/2011EO200005
-[teixeira14]: http://doi.org/10.1175/BAMS-D-12-00204.1
-[waliser20]: http://doi.org/10.5194/gmd-13-2945-2020
+[teixeira2014]: http://doi.org/10.1175/BAMS-D-12-00204.1
+[waliser2020]: http://doi.org/10.5194/gmd-13-2945-2020
