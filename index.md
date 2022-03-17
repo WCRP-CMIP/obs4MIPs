@@ -1,8 +1,9 @@
 ## Welcome to obs4MIPs!
 
-_The information below supercedes a [previous website.][obs4mipsEsgfProj]_
+_The information below will soon supercede a [previous website.][obs4mipsEsgfProj]_
+The transition is excpected to be complete by April 10, 2022.
 
-obs4MIPs is an effort to make observational data more accessible for climate model
+Obs4MIPs is an effort to make observational data more accessible for climate model
 evaluation, development and research. It does so by providing observational products
 technically aligned with climate model data, specifically that made available from
 the World Climate Research Programme's (WCRP) [Coupled Model Intercomparison Project (CMIP)][cmip].
