@@ -24,7 +24,16 @@ readily available. If you would like to be involved please contact us and let us
 know (obs4MIPs-admin@llnl.gov).
 
 
-### Contacts
+### Contacts and collaborators
+
+Peter Gleckler (PCMDI, gleckler1@llnl.gov)
+Simon Pinnock (ESA, Simon.Pinnock@esa.int)
+Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov)
+Nico Caltabiano (WCRP, avazcaltabiano@wmo.int)
+
+Alison Waterfall (CEDA) ESA dataset preparation 
+Sasha AMES (PCMDI) ESGF information   
+Paul Durack (PCMDI) CMOR information
 
 
 ### References
