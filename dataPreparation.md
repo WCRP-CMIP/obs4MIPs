@@ -1,5 +1,5 @@
 ---
-title: obs4MIPs data preparation and version control
+title: Data preparation
 rank: 3
 ---
 * WORK IN PROGRESS 
