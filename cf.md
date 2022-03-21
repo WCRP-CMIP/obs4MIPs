@@ -1,5 +1,5 @@
 ---
-title: Climate Forecast Metadata Conventions (CF) 
+title: Climate Forecast Metadata Conventions 
 rank: 3
 ---
 # CF 
