@@ -1,5 +1,5 @@
 ---
-title: WIP Information
+title: WGCM Infrastructure Panel 
 rank: 3
 ---
 # WGCM Infrastructure Panel (WIP) 
