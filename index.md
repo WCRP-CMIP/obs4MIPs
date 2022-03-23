@@ -1,7 +1,7 @@
 ## Welcome to obs4MIPs!
 
 _The information below will soon supercede a [previous website.][obs4mipsEsgfProj]_
-The transition is excpected to be complete by April 10, 2022.
+The transition is expected to be complete by April 10, 2022.
 
 Obs4MIPs is an effort to make observational data more accessible for climate model
 evaluation, development and research. It does so by providing observational products
@@ -26,10 +26,7 @@ know (obs4MIPs-admin@llnl.gov).
 
 ### Contacts and collaborators
 
-Peter Gleckler (PCMDI, gleckler1@llnl.gov) General info\
-Simon Pinnock (ESA, Simon.Pinnock@esa.int) ESA related info\
-Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov) NASA related info\
-Nico Caltabiano (WCRP, avazcaltabiano@wmo.int)
+Peter Gleckler (PCMDI, gleckler1@llnl.gov) general info, Simon Pinnock (ESA, Simon.Pinnock@esa.int) ESA related info, Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov) NASA related info, Nico Caltabiano (WCRP, avazcaltabiano@wmo.int)
 
 
 ### References
