@@ -1,5 +1,5 @@
 ---
-title: obs4MIPs data specifications 
+title: Obs4MIPs data specifications 
 rank: 3
 ---
 # The obs4MIPs data specifications (ODS2.1) 
