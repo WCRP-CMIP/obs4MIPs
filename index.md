@@ -17,7 +17,7 @@ Version controlled obs4MIPs compliant datasets provide the foundation for the ef
 Some of these products are made available via ESGF, and a subset of them have been
 reviewed (primarily assessing technical compliance with standards) and plan to be
 published shortly. Version control and other registered content are managed on
-a separate Github repository: [https://github.com/PCMDI/obs4MIPs-cmor-tables][obs4mipsgithub].
+[a separate Github repository](https://github.com/PCMDI/obs4MIPs-cmor-tables][obs4mipsgithub).
 
 Discussions are underway to revamp obs4MIPs with a priority to make products more
 readily available. If you would like to be involved please contact us and let us
