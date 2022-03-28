@@ -7,7 +7,7 @@ Obs4MIPs is an effort to make observational data more accessible for climate mod
 evaluation, development and research. It does so by providing observational products
 technically aligned with climate model data, specifically that made available from
 the World Climate Research Programme's (WCRP) [Coupled Model Intercomparison Project (CMIP)][cmip].
-Some obs4MIPs products are made available via the
+Many obs4MIPs products are made available via the
 [Earth System Grid Federation (ESGF)][obs4mipsEsgfSearch].
 A series of papers provide background material for the origins and advancement
 of obs4MIPs ([Gleckler et al., 2011][gleckler2011]; [Teixeira et al., 2014][teixeira2014];
