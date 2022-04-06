@@ -1,7 +1,7 @@
 ## Welcome to obs4MIPs!
 
 _The information below will soon supercede a [previous website.][obs4mipsEsgfProj]_
-The transition is expected to be complete by April 10, 2022.
+The transition is expected to be complete by April 20, 2022.
 
 Obs4MIPs is an effort to make observational data more accessible for climate model
 evaluation, development and research. It does so by providing observational products
