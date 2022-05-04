@@ -1,7 +1,6 @@
 ## Welcome to obs4MIPs!
 
-_The information below will soon supercede a [previous website.][obs4mipsEsgfProj]_
-The transition is expected to be complete by April 20, 2022.
+_The information below supercedes a [previous website.][obs4mipsEsgfProj]_
 
 Obs4MIPs is an effort to make observational data more accessible for climate model
 evaluation, development and research. It does so by providing observational products
@@ -47,7 +46,7 @@ Lee, T., Pinnock, S., Potter, G., Rixen, M., Saunders, R., Schulz, J., Tuma, M.
 Geosc. Mod. Dev. 13. 2945-2958, [doi.org/10.5194/gmd-13-2945-2020][waliser2020]
 
 
-##### Document version: 28 March 2022
+##### Document version: 3 May 2022
 
 
 [obs4mipsEsgfProj]: https://esgf-node.llnl.gov/projects/obs4mips/
