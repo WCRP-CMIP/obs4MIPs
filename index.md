@@ -21,7 +21,7 @@ readily available. If you would like to be involved please contact us and let us
 know (obs4MIPs-admin@llnl.gov).
 
 
-### Contacts and collaborators
+### Contacts 
 
 Peter Gleckler (PCMDI, gleckler1@llnl.gov) general info, Simon Pinnock (ESA, Simon.Pinnock@esa.int) ESA related info, Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov) NASA related info, Nico Caltabiano (WCRP, avazcaltabiano@wmo.int)
 
