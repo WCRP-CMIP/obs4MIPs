@@ -1,8 +1,8 @@
 ---
-title: Obs4MIPs data preparation
+title: How to contribute data to Obs4MIPs
 rank: 3
 ---
 * WORK IN PROGRESS * 
 
-The first step in version control and preparation of a new obs4MIPs compliant dataset is to establish an obs4MIPs source_id.  Curation of obs4MIPs source_id is managed [via a gitHub repository](https://github.com/PCMDI/obs4MIPs-cmor-tables).  A sample of curated source_ids is [shown here](https://github.com/PCMDI/obs4MIPs-cmor-tables/blob/master/obs4MIPs_source_id.json).   
+The obs4MIPs team is working to improve the guidelines for preparing obs4MIPs compliant data.  A simple recipe and example (working versions) do exist via the obs4MIPs GitHub repository for managing metadata:  https://github.com/PCMDI/obs4MIPs-cmor-tables/blob/master/inputs/README.md
 
