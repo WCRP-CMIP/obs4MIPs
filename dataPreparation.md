@@ -1,5 +1,5 @@
 ---
-title: How to contribute data to Obs4MIPs
+title: Contributing data to Obs4MIPs
 rank: 3
 ---
 * WORK IN PROGRESS * 
