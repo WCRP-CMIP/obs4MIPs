@@ -1,5 +1,5 @@
 ---
-title: Obs4MIPs data available on ESGF 
+title: Obs4MIPs steering group participants 
 rank: 3
 ---
 
