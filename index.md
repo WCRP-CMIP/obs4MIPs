@@ -23,11 +23,7 @@ know (obs4MIPs-admin@llnl.gov).
 
 ### Contacts 
 
-Send email to obs4MIPs team: obs4MIPs-admin@llnl.gov
-
-or 
-
-Peter Gleckler (PCMDI, gleckler1@llnl.gov) general info, Simon Pinnock (ESA, Simon.Pinnock@esa.int) ESA related info, Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov) NASA related info, Nico Caltabiano (WCRP, avazcaltabiano@wmo.int), Paul Durack (PCMDI, durack1@llnl.gov) for ESGF info.
+Send email to obs4MIPs team: obs4MIPs-admin@llnl.gov, or Peter Gleckler (PCMDI, gleckler1@llnl.gov) general info, Simon Pinnock (ESA, Simon.Pinnock@esa.int) ESA related info, Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov) NASA related info, Nico Caltabiano (WCRP, avazcaltabiano@wmo.int), Paul Durack (PCMDI, durack1@llnl.gov) for ESGF info.
 
 
 ### References
