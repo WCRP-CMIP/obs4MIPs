@@ -1,5 +1,5 @@
 ---
-title: Obs4MIPs steering group and active participants 
+title: Steering group and active participants 
 rank: 3
 ---
 
