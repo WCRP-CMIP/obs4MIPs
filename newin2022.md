@@ -10,4 +10,4 @@ In addition to the version control of obs4MIPs products, codes used to make thes
 A current emphasis of obs4MIPs is to further strengthen the data standards that are closely aligned with CMIP. While it is expected that the availability of obs4MIPs products via ESGF will continue to grow, solidifying the foundation provided by the data specifications will broaden possible applications. For example, obs4MIPs compliant datasets may be prepared in support of established model evaluation capabilities (e.g., [Coordinated Model Evaluation Capabilities](https://cmec.llnl.gov/metrics.html) and [ESMValTool](https://www.esmvaltool.org/)) and made accessible via alternate delivery systems). Making datasets obs4MIPs compliant when used for certain journal publications could also help community efforts to support improved provenance.    
 
 
-*Work in progress*
+
