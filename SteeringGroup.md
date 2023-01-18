@@ -3,6 +3,8 @@ title: Steering group and active participants
 rank: 3
 ---
 
+# Obs4MIPs steering group and active participants
+<br/>
 P. Gleckler (PCMDI, co-chair) <br/>
 G. Elsaesser (NASA GISS, co-chair) <br/>
 S. Pinnock (ESA, co-chair) <br/>
