@@ -1,6 +1,6 @@
 ---
 title: Active Task Teams 
-rank: 3
+rank: 2
 ---
 # The obs4MIPs Steering Group is currently prioritizing project enhancments via the following Task Teams:
 
