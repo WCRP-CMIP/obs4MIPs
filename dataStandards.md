@@ -2,8 +2,8 @@
 title: Obs4MIPs data specifications 
 rank: 3
 ---
-## The obs4MIPs data specifications (ODS2.1) 
+## The obs4MIPs data specifications
 
-The [obs4MIPs data specifications](https://esgf-node.llnl.gov/site_media/projects/obs4mips/ODSv2p1.pdf) are designed to be closely aligned with those of CMIP6. 
+The obs4MIPs data specifications (ODS) provide the detailed technical alignment between CMIP standard model output and obs4MIPs products. Minor but critical refinements to [ODS2.1](docs/ODSv2p1.pdf) will be published early in 2024.  
 
 
