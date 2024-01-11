@@ -3,11 +3,8 @@ title: What's new in 2024?
 rank: 3
 ---
 
-Efforts to revamp obs4MIPs in 2022 have resulted in a new team.  Early in the new year of 2023 the priority will be to advance the provenance of dataset preparation and to improve their availability.
+During 2023 the recipie for preparing obs4MIPs-compliant data products was substantially streamlined as the obs4MIPs Steering Group worked in close coordination with the [CMIP International Project Office](https://wcrp-cmip.org/cmip-governance/project-office/).  Early in 2024 publidation of the obs4MIPs data specifications (ODS-V2.5) will further the technical coordination with CMIP, with the priority turning to the preparation of obs4MIPs-compliant products and to deliver them via ESGF. 
 
-In addition to the version control of obs4MIPs products, codes used to make these data obs4MIPs compliant will now be maintained in a Github repository.  This will make preparation of obs4MIPs data more transparent, and provide examples that can be leveraged for the preparation of newer products.  The digital trail of dataset prepartion will be especially helpful in cases where there has been additional processing of the original data (e.g., averaging in space or time).      
- 
-A current emphasis of obs4MIPs is to further strengthen the data standards that are closely aligned with CMIP. While it is expected that the availability of obs4MIPs products via ESGF will continue to grow, solidifying the foundation provided by the data specifications will broaden possible applications. For example, obs4MIPs compliant datasets may be prepared in support of established model evaluation capabilities (e.g., [PCMDI Metrics Package](https://github.com/PCMDI/pcmdi_metrics), [Coordinated Model Evaluation Capabilities](https://cmec.llnl.gov/metrics.html) and [ESMValTool](https://www.esmvaltool.org/)) and made accessible via alternate delivery systems). Making datasets obs4MIPs compliant when used for certain journal publications could also help community efforts to support improved provenance.    
 
 
 
