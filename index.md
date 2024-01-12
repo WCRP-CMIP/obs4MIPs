@@ -46,7 +46,7 @@ Lee, T., Pinnock, S., Potter, G., Rixen, M., Saunders, R., Schulz, J., Tuma, M.
 Geosc. Mod. Dev. 13. 2945-2958, [doi.org/10.5194/gmd-13-2945-2020][waliser2020]
 
 
-##### Document version: 5 December 2023
+##### Document version: 10 January 2024
 
 
 [obs4mipsEsgfProj]: https://esgf-node.llnl.gov/projects/obs4mips/
