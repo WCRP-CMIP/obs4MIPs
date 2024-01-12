@@ -1,7 +1,5 @@
 ## Welcome to obs4MIPs!
 
-_The information below supercedes a [previous website.][obs4mipsEsgfProj]_
-
 Obs4MIPs is an effort to make observational data more accessible for climate model
 evaluation, development and research. It does so by providing observational products
 technically aligned with climate model data, specifically that made available from
