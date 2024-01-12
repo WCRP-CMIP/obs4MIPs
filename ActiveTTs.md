@@ -1,21 +1,23 @@
 ---
 title: Active Task Teams 
-rank: 2
+rank: 4
 ---
 # The obs4MIPs Steering Group is currently prioritizing project enhancments via the following Task Teams:
 
-TT1: Workflow efficiency: Improving workflow for preparing obs4MIPs compliant data
+TT1: obs4MIPs data specifications (ODS) 
 
-TT2: obs4MIPs data specifications (ODS) 
+TT2: Workflow efficiency: Improving workflow for preparing obs4MIPs compliant data
  
 TT3: Exploring options to include “supplemental information”
 
-TT4: Inclusion of satellite-based exploratory datasets
+TT4: Oversight of dataset suitability indicators
 
-TT5: Prototyping the inclusion of in-situ data
+TT5: Inclusion of satellite-based exploratory datasets
 
-TT7: Oversight of dataset suitability indicators
+TT6: Prototyping the inclusion of in-situ data
+
+TT7: Inclusion of selected reanalyses fields
 
 TT8: Guidance and capacity building
 
-TT9: Solutions for integrating reanalyses into obs4MIPS
+
