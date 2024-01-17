@@ -1,7 +1,8 @@
 ---
 title: Active Task Teams 
-rank: 4
+rank: 6
 ---
+
 # The obs4MIPs Steering Group is currently prioritizing project enhancments via the following Task Teams:
 
 TT1: obs4MIPs data specifications (ODS) 
