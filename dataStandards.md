@@ -4,6 +4,8 @@ rank: 3
 ---
 ## The obs4MIPs data specifications
 
-The obs4MIPs data specifications (ODS) provide the detailed technical alignment between CMIP standard model output and obs4MIPs products. Minor but critical refinements to [ODS2.1](docs/ODSv2p1.pdf) will be published early in 2024.  
+The obs4MIPs data specifications (ODS) provide the detailed technical alignment between CMIP standard model output and obs4MIPs-compliant products. [ODS2.1](docs/ODSv2p1.pdf) has been used to prepare obs4MIPs-compliant datasets during much of the evaluation stage of CMIP6.  
+
+Currently, an updated version of ODS is being developed to improve the transparency of dataset preparation.  Comments are welcome on [this draft](docs/ODSv2.5-DRAFT.pdf) which is expected to be finalized in early 2024.  
 
 
