@@ -15,6 +15,7 @@ B. Hassler (DLR) <br/>
 A. Manaster (RSS) <br/>
 C. Mears (RSS) <br/>
 E. ORourke (CMIP IPO) <br/>
+K. Taylor (PCMDI) <br/>
 B. Turner (CMIP IPO) <br/>
 A  Waterfall (CEDA) <br/>
 K. Willett (MOHC) <br/>
