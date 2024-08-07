@@ -14,6 +14,8 @@ Version controlled obs4MIPs compliant datasets provide the foundation for the ef
 Some of these products are made available via ESGF, with version control and other registered content managed on
 [a separate Github repository](https://github.com/PCMDI/obs4MIPs-cmor-tables).  
 
+Obs4MIPs is a project of the [Earth System Modelling and Observations (ESMO)](https://www.wcrp-esmo.org/projects-and-panels), a core project of the World Climate Research Programme. The [obs4MIPs Steering Group](SteeringGroupd.md) is working closely with the [CMIP International Project office](https://wcrp-cmip.org/cmip-governance/project-office/).  
+
 Discussions are underway to revamp obs4MIPs with a priority to make products more
 readily available. If you would like to be involved please contact us and let us
 know (obs4MIPs-admin@llnl.gov).
@@ -44,7 +46,7 @@ Lee, T., Pinnock, S., Potter, G., Rixen, M., Saunders, R., Schulz, J., Tuma, M.
 Geosc. Mod. Dev. 13. 2945-2958, [doi.org/10.5194/gmd-13-2945-2020][waliser2020]
 
 
-##### Document version: 10 January 2024
+##### Document version: 7 July 2024
 
 
 [obs4mipsEsgfProj]: https://esgf-node.llnl.gov/projects/obs4mips/
