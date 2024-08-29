@@ -23,7 +23,7 @@ know (obs4MIPs-admin@llnl.gov).
 
 ### Contacts 
 
-Send email to obs4MIPs team: <b><a href="mailto:submissions-obs4mips\@wcrp-cmip.org">submissions-obs4mips\@wcrp-cmip.org</a></b>.
+Send email to obs4MIPs team: <b><a href="mailto:submissions-obs4mips@wcrp-cmip.org">submissions-obs4mips@wcrp-cmip.org</a></b>.
 
 
 ### References
