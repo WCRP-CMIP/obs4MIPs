@@ -23,7 +23,7 @@ know (obs4MIPs-admin@llnl.gov).
 
 ### Contacts 
 
-Send email to obs4MIPs team: obs4MIPs-admin@llnl.gov, or Peter Gleckler (PCMDI, gleckler1@llnl.gov) general info, Simon Pinnock (ESA, Simon.Pinnock@esa.int) ESA related info, Greg Elsaesser (NASA GISS, gregory.s.elsaesser@nasa.gov) NASA related info, Nico Caltabiano (WCRP, avazcaltabiano@wmo.int), Paul Durack (PCMDI, durack1@llnl.gov) for ESGF info.
+Send email to obs4MIPs team: <b><a href="mailto:submissions-obs4mips\@wcrp-cmip.org">submissions-obs4mips\@wcrp-cmip.org</a></b>.
 
 
 ### References
@@ -46,14 +46,13 @@ Lee, T., Pinnock, S., Potter, G., Rixen, M., Saunders, R., Schulz, J., Tuma, M.
 Geosc. Mod. Dev. 13. 2945-2958, [doi.org/10.5194/gmd-13-2945-2020][waliser2020]
 
 
-##### Document version: 7 July 2024
+##### Document version: 29 August 2024
 
 
-[obs4mipsEsgfProj]: https://esgf-node.llnl.gov/projects/obs4mips/
-[cmip]: https://esgf-node.llnl.gov/search/cmip6/
-[obs4mipsEsgfSearch]: https://esgf-node.llnl.gov/search/obs4mips/
-[ferraro2015]: http://doi.org/10.1175/BAMS-D-14-00216.1
+[cmip]: https://aims2.llnl.gov/search/cmip6/
+[obs4mipsEsgfSearch]: https://aims2.llnl.gov/search/obs4mips
 [gleckler2011]: https://doi.org/10.1029/2011EO200005
 [teixeira2014]: http://doi.org/10.1175/BAMS-D-12-00204.1
+[ferraro2015]: http://doi.org/10.1175/BAMS-D-14-00216.1
 [waliser2020]: http://doi.org/10.5194/gmd-13-2945-2020
 [obs4mipsGithub]: https://github.com/PCMDI/obs4MIPs-cmor-tables
