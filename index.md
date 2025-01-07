@@ -16,6 +16,9 @@ Some of these products are made available via ESGF, with version control and oth
 
 Obs4MIPs is a project of the World Climate Research Programme's [Earth System Modelling and Observations (ESMO)](https://www.wcrp-esmo.org/projects-and-panels). The [obs4MIPs Steering Group](SteeringGroup.md) is working closely with the [CMIP International Project office](https://wcrp-cmip.org/cmip-governance/project-office/).  
 
+If you have an observational gridded data product that you would like to register for
+inclusion in obs4MIPs, please complete the inclusion proposal form at [https://bit.ly/obs4MIPs-submit](https://bit.ly/obs4MIPs-submit).
+
 Discussions are underway to revamp obs4MIPs with a priority to make products more
 readily available. If you would like to be involved please contact us and let us
 know (see mailing list address below).
